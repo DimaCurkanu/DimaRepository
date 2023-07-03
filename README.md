@@ -1,2 +1,2 @@
 # DimaRepository
-First Dima's public repository
+public repository
